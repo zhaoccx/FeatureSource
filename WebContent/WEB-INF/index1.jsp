@@ -29,6 +29,7 @@
   
   <body>
     局部刷新页面(Ajax.Updater)<br>
+    <form action="">
     	<input type="button" id="btn" value="娱乐新闻" onmouseover="showNews('yule.jsp')">
     	<input type="button" id="btn1" value="财经新闻" onmouseover="showNews('caijing.jsp')">
     <div id="news"></div>
