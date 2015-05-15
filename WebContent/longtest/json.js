@@ -1,0 +1,1 @@
+{contact:{friend:{name:"Michael",email:"myemail@gmail.com",homepage:"http://myweb.com"}}}
