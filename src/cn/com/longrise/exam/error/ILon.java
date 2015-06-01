@@ -16,6 +16,7 @@ abstract class ILon {
 	}
 
 	public void getTest() {
+		@SuppressWarnings("unused")
 		short s = 1;
 		s += 1;
 	}
